@@ -7,6 +7,7 @@
 <h3> Qompass AI on SQLite </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-sqlite)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/sqlite/total?style=flat-square)
   <a href="https://sqlite.org/">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </a>
